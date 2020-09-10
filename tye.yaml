@@ -5,7 +5,7 @@
 #    https://aka.ms/AA7q20u
 #
 name: tye-sample
-registry : sajay.azurecr.io
+registry : sajaytye.azurecr.io
 services:
 - name: booksapi
   project: BooksAPI/BooksAPI.csproj
